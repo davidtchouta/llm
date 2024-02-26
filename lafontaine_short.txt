@@ -1,0 +1,123 @@
+Personne 1: Salut, comment ça va aujourd'hui ?
+Personne 2: Salut ! Ça va bien, merci. Et toi, comment tu te sens ?
+Personne 1: Pas mal, un peu fatigué mais je tiens le coup. Tu as des plans pour le weekend ?
+Personne 2: Je pense aller faire une randonnée si le temps le permet. La nature me manque. Et toi ?
+Personne 1: Je vais probablement rester tranquille, lire un livre que j'ai commencé la semaine dernière.
+Personne 2: Oh, quel livre ?
+Personne 1: "L'Étranger" de Camus. C'est assez fascinant.
+Personne 2: J'adore cet auteur ! Son approche de l'absurde est vraiment unique.
+Personne 1: Exactement, ça ouvre vraiment l'esprit. Sinon, tu as vu le dernier film de Nolan ?
+Personne 2: Pas encore, mais il est sur ma liste. J'ai entendu dire que c'était un chef-d'œuvre.
+Personne 1: Absolument, je te le recommande vivement.
+Personne 2: Merci pour la recommandation. D'ailleurs, comment va ta famille ?
+Personne 1: Tout le monde va bien, merci. Mon frère vient d'obtenir son diplôme, donc c'est la fête à la maison.
+Personne 2: Félicitations à lui ! C'est une grande étape.
+Personne 1: Oui, nous sommes tous très fiers. Et toi, des nouvelles de ta sœur ?
+Personne 2: Elle vient de commencer un nouveau job à New York, elle s'adapte encore.
+Personne 1: New York, quelle ville animée ! Elle doit être ravie.
+Personne 2: Oui, elle est très excitée. Merci de demander.
+
+Personne 1: Salut, ça va ?
+Personne 2: Oui, et toi ?
+Personne 1: Bien aussi, merci. Tu as fait quoi de beau aujourd'hui ?
+Personne 2: J'ai travaillé sur mon projet de programmation. Et toi ?
+Personne 1: Je suis allé courir ce matin. Ça fait du bien de bouger un peu.
+Personne 2: C'est sûr. Ça te dirait d'aller voir un film demain soir ?
+Personne 1: Pourquoi pas. Quel film ?
+Personne 2: Je pensais à ce nouveau film de science-fiction qui est sorti.
+Personne 1: Ah oui, j'en ai entendu parler. Ça a l'air bien. À quelle heure ?
+Personne 2: Le séance de 20h me semble bien. On se retrouve là-bas ?
+Personne 1: D'accord. On dit 19h45 devant le cinéma ?
+Personne 2: Parfait. À demain alors.
+Personne 1: À demain. Bonne soirée !
+
+Personne 1: Tu as vu le dernier film de Tarantino ?
+Personne 2: Pas encore, il est bien ?
+Personne 1: Oui, une vraie pépite ! On y va ensemble ?
+Personne 2: Super idée, je suis libre demain soir.
+
+Personne 1: Tu continues le jogging ces temps-ci ?
+Personne 2: Oui, j'essaie de courir trois fois par semaine.
+Personne 1: Ça te dirait une course ensemble ce weekend ?
+Personne 2: Avec plaisir, ça me motivera !
+
+Personne 1: J'ai tenté une nouvelle recette de tarte aux pommes.
+Personne 2: Oh, ça sonne délicieux ! Tu l'as trouvée où ?
+Personne 1: Sur un blog de cuisine végane. Je t'envoie le lien.
+Personne 2: Merci, j'ai hâte de l'essayer.
+
+Personne 1: J'ai enfin réservé mes vacances pour le Japon !
+Personne 2: C'est génial ! Tu pars quand ?
+Personne 1: Début avril, pour la saison des cerisiers en fleurs.
+Personne 2: Ça va être magnifique. Tu as prévu quel itinéraire ?
+
+Personne 1: Tu as écouté le nouvel album de Phoenix ?
+Personne 2: Oui, je l'adore ! Surtout la piste trois.
+Personne 1: Exactement, elle est en boucle chez moi.
+Personne 2: On devrait aller à leur concert le mois prochain.
+
+Personne 1: Je cherche un bon livre à lire, une recommandation ?
+Personne 2: Tu préfères quel genre ? Fiction, histoire, science ?
+Personne 1: Plutôt fiction, je pense.
+Personne 2: Alors, "L'Ombre du Vent" de Carlos Ruiz Zafón est superbe.
+
+Personne 1: Tu utilises quoi comme appli pour gérer tes mails ?
+Personne 2: J'utilise Spark, et toi ?
+Personne 1: Toujours Gmail, mais je cherche une alternative.
+Personne 2: Teste Spark, il est assez pratique.
+
+Personne 1: Tu as testé le dernier Zelda ?
+Personne 2: Pas encore, mais il est sur ma liste.
+Personne 1: Il est épique, meilleur jeu de l'année pour moi.
+Personne 2: J'ai hâte de plonger dedans ce weekend.
+
+Personne 1: Comment va ton chat, toujours aussi joueur ?
+Personne 2: Oui, il a détruit un autre de mes coussins...
+Personne 1: Ils nous en font voir de toutes les couleurs !
+Personne 2: C'est sûr, mais on les aime quand même.
+
+Personne 1: Comment se passent tes cours de code ?
+Personne 2: Assez bien, je commence à me familiariser avec Python.
+Personne 1: Cool ! Si tu as des projets ou des exercices, je peux jeter un œil.
+Personne 2: Merci, ça serait super. J'ai encore du mal avec les boucles.
+
+Personne 1: Salut ! As-tu déjà pensé à notre voyage en Italie ?
+Personne 2: Oui, j'étais justement en train de regarder les vols.
+Personne 1: Super ! On part quand ?
+Personne 2: Qu'est-ce que tu penses de début juin ?
+Personne 1: Parfait pour moi. On atterrit où ?
+Personne 2: Rome serait idéal comme point de départ.
+Personne 1: D'accord. Et pour l'hébergement, des idées ?
+Personne 2: J'ai vu des appartements sympas sur Airbnb.
+Personne 1: Peux-tu m'envoyer les liens ?
+Personne 2: Bien sûr, je te les envoie par mail.
+Personne 1: Merci ! On reste combien de temps à Rome ?
+Personne 2: Je propose 3 jours, puis on peut aller à Florence.
+Personne 1: Génial, j'ai toujours voulu voir la Galerie des Offices.
+Personne 2: Moi aussi. Ensuite, direction Venise ?
+Personne 1: Oui, une balade en gondole s'impose !
+Personne 2: Exactement. Et finissons par la côte amalfitaine.
+Personne 1: Quelle bonne idée ! Ça va être un super voyage.
+Personne 2: Absolument, je suis tellement excité.
+Personne 1: On commence à faire une liste de ce qu'il faut emporter ?
+Personne 2: Bonne idée. Je vais créer un document partagé.
+
+Personne 1: Hey, ça te dirait une soirée cinéma vendredi ?
+Personne 2: Carrément ! Quel genre de films ?
+Personne 1: J'ai pensé à une thématique science-fiction.
+Personne 2: J'adore ! Tu as des films en tête ?
+Personne 1: "Interstellar", "Blade Runner 2049", et peut-être "Arrival".
+Personne 2: Super choix. On commande des pizzas ?
+Personne 1: Oui, et des sodas. Tu as des préférences ?
+Personne 2: Une quatre fromages et un cola, pour moi.
+Personne 1: Ça marche. On invite d'autres personnes ?
+Personne 2: Peut-être juste Clara et Max, pour rester tranquilles.
+Personne 1: D'accord, je leur envoie un message.
+Personne 2: Tu penses qu'on devrait préparer des snacks aussi ?
+Personne 1: Oui, je vais acheter du popcorn et des bonbons.
+Personne 2: Parfait. On commence à quelle heure ?
+Personne 1: Que dis-tu de 19h ? Ça nous laisse le temps de papoter avant.
+Personne 2: Idéal. On regarde les films chez toi ?
+Personne 1: Oui, mon salon est plus grand.
+Personne 2: Super, je suis impatient.
+Personne 2: Absolument. À vendredi alors !
